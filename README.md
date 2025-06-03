@@ -40,7 +40,7 @@
 ### 🛠️ Skills & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,flask,sqlite,git,github,linux" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,html,css,flask,sqlite,git,github" />
 </p>
 
 ---
