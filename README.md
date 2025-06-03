@@ -62,7 +62,7 @@
 ---
 
 <p align="center">
-  <i>"Consistency compounds. Push every day. Build every week. Learn for life."</i>
+  <i>"1% percent a day. Basically Compound Interest."</i>
 </p>
 
 
