@@ -20,7 +20,7 @@
   - Resume Coach Agent  
   - Daily DSA practice (tracked via GitHub)
 - 🌱 Learning: **Data Structures & Algorithms**, **LLMs (Ollama)**, **Flask/FastAPI**, and **Full-Stack Web Dev**.
-- 🗣️ Fun Fact: *Every 60 seconds, a minute passes by. Use it to push some code! 😄*
+- 🗣️ Fun Fact: *Every 60 seconds, a minute passes by. 🤔*
 
 ---
 
