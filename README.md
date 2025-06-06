@@ -45,7 +45,7 @@
 
 ### 📌 Currently Working On
 
-- ✏️ Daily [DSA Practice](https://github.com/SujeethMuru/DSA-practice)
+- ✏️ Daily [DSA Practice](https://github.com/SujeethMuru/daily-dsa)
 - 📊 Upgrading my Smart Inventory System UI
 - 🧠 Building more AI-powered agents using Ollama
 
