@@ -1,7 +1,4 @@
-<!-- Optional: Custom banner image -->
-<p align="center">
-  <img src="https://github.com/SujeethMuru/SujeethMuru/assets/banner.png" alt="Sujeeth Banner" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=1B9BF6&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Sujeeth+Muruganandam;Computer+Science+Student+%7C+Software+Developer;I+build+tools+to+make+life+efficient" alt="Typing SVG" />
 
 <h1 align="center">Hi there, I'm Sujeeth 👋</h1>
 
