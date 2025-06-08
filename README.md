@@ -84,7 +84,7 @@
 ---
 
 <p align="center">
-  <i>"1% percent a day. Basically Compound Interest."</i>
+  <i>"1% percent a day"</i>
 </p>
 
 ---
