@@ -67,10 +67,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SujeethMuru&theme=default&hide_border=true" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=SujeethMuru&theme=light" />
 </p>
-
+-->
 ---
 
 ### 🤝 Let’s Connect
