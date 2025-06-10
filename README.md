@@ -84,7 +84,7 @@
 ---
 
 <p align="center">
-  <i>"1% percent a day"</i>
+  <i>"1% percent a day, push away"</i>
 </p>
 
 ---
