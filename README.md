@@ -32,7 +32,7 @@
 
 | Project | Description | Tech |
 |--------|-------------|------|
-| [AI Resume Coach Agent](https://github.com/SujeethMuru/ai-resume-coach-agent) | Offline resume feedback tool powered by LLMs | Python, Flask, Ollama |
+| [AI Resume Coach Agent](https://github.com/SujeethMuru/resume-coach-agent) | Offline resume feedback tool powered by LLMs | Python, Flask, Ollama |
 | [Smart Inventory System](https://github.com/SujeethMuru/smart-inventory-system) | Full-stack app with low-stock alerts | Python, SQLite, HTML |
 | [Tic-Tac-Toe AI]<!--(https://github.com/SujeethMuru/tic-tac-toe-pygame)--> | Classic game w/ adjustable AI | Python, Pygame |
 | [Portfolio Website](https://sujeethmuru.github.io/SujeethPortfolioWebsite/) | My personal site & project showcase | HTML, CSS |
@@ -49,14 +49,13 @@
 
 ### 📌 Currently Working On
 
-- ✏️ Daily [DSA Practice](https://github.com/SujeethMuru/daily-dsa)
+- ✏️ Logic Bulding Practice (https://github.com/SujeethMuru/Geeks-Logic-Building-Practice)
 
 ---
 
 ### 🎯 Learning Goals
 
 - 🧰 Flask → FastAPI
-- 🔐 Authentication systems (JWT, Sessions)
 - 🌐 Deployment: Docker, Render, and GitHub Actions
 - 💾 SQL + NoSQL
 
@@ -83,6 +82,7 @@
   <a href="https://sujeethmuru.github.io/SujeethPortfolioWebsite/"><img src="https://img.shields.io/badge/Portfolio-1B1F23?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
+<!-- motivational quote
 ---
 
 <p align="center">
@@ -90,7 +90,7 @@
 </p>
 
 ---
-
+-->
 
 <!---
 SujeethMuru/SujeethMuru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
