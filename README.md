@@ -16,7 +16,7 @@
 
 ---
 
-### 🧠 About Me
+###  About Me
 
 - 🎓 CS undergrad passionate about building software that **makes life easier**.
 - 🔧 I create tools that solve real-world problems, from inventory apps to AI-powered resume reviewers.
@@ -28,7 +28,7 @@
 
 ---
 
-### 🚀 Projects
+###  Projects
 
 | Project | Description | Tech |
 |--------|-------------|------|
