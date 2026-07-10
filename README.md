@@ -8,7 +8,7 @@
 
 
 
-<h1 align="center">Hi there, I'm Sujeeth 👋</h1>
+<h1 align="center">Hi there, I'm Sujeeth </h1>
 
 <p align="center">
   👨‍💻 Computer Science Student | 🔧 Problem Solver | 🌱 Lifelong Learner  
