@@ -67,8 +67,8 @@ Additional experience: cybersecurity fundamentals, networking, technical support
 ### GitHub activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SujeethMuru&show_icons=true&hide_border=true&title_color=38BDF8&icon_color=F59E0B&text_color=8B949E&bg_color=00000000&rank_icon=github" alt="Sujeeth's GitHub statistics" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujeethMuru&layout=compact&hide_border=true&title_color=38BDF8&text_color=8B949E&bg_color=00000000" alt="Sujeeth's most-used languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SujeethMuru&theme=transparent" alt="Sujeeth's GitHub statistics" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SujeethMuru&theme=transparent" alt="Sujeeth's most-used languages" height="165" />
 </p>
 
 <p align="center">
