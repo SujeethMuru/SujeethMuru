@@ -3,7 +3,8 @@
 <h1 align="center">Sujeeth Muruganandam</h1>
 
 <p align="center">
-  Computer Science Student · Software Developer · Houston, Texas
+  Computer Science Student &middot; Cybersecurity Minor &middot; Software Developer<br />
+  Houston, Texas
 </p>
 
 <p align="center">
@@ -12,44 +13,56 @@
   <a href="https://sujeethmuru.github.io/SujeethPortfolioWebsite/"><img src="https://img.shields.io/badge/Portfolio-0B1118?style=flat-square&logo=safari&logoColor=38BDF8" alt="Portfolio" /></a>
 </p>
 
-I build practical software that turns repetitive work and messy information into clear, useful tools. My recent work spans AI-assisted feedback, inventory management, and full-stack web applications. I care about readable code, thoughtful interfaces, and shipping projects that solve a real problem.
+I am a senior Computer Science student at the University of Houston&ndash;Clear Lake with a minor in Cybersecurity. I build practical software around security, AI, automation, and real-world problems, including cybersecurity analytics, locally running AI tools, and full-stack applications. I value readable code, useful interfaces, and clearly documented development.
 
 ### Selected work
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/SujeethMuru/resume-coach-agent">AI Resume Coach</a></h3>
-      <p>A privacy-conscious resume feedback tool that runs with local language models and turns a resume into actionable suggestions.</p>
-      <p><code>Python</code> <code>Flask</code> <code>Ollama</code></p>
+      <h3><a href="https://github.com/SujeethMuru/ai-nids-dashboard">AI-Powered Network Intrusion Detection Dashboard</a></h3>
+      <p>A cybersecurity and machine-learning project under development for analyzing network traffic, identifying suspicious patterns, and presenting security insights through an interactive dashboard.</p>
+      <p><code>Python</code> <code>Streamlit</code> <code>Machine Learning</code> <code>Cybersecurity</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/SujeethMuru/smart-inventory-system">Smart Inventory System</a></h3>
-      <p>A full-stack inventory workflow for tracking stock levels and surfacing low-stock alerts before they become a problem.</p>
-      <p><code>Python</code> <code>SQLite</code> <code>HTML</code></p>
+      <h3><a href="https://github.com/SujeethMuru/resume-coach-agent">AI Resume Coach</a></h3>
+      <p>A privacy-focused resume feedback tool whose language model runs locally through Ollama and turns a resume into actionable suggestions.</p>
+      <p><code>Python</code> <code>Flask</code> <code>Ollama</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/SujeethMuru/Geeks-Logic-Building-Practice">Logic Building Practice</a></h3>
-      <p>A growing collection of programming exercises focused on stronger problem-solving patterns and implementation fundamentals.</p>
-      <p><code>Python</code> <code>Algorithms</code> <code>Problem Solving</code></p>
+      <h3><a href="https://github.com/SujeethMuru/smart-inventory-system">Smart Inventory System</a></h3>
+      <p>A full-stack inventory application for tracking stock and identifying low-stock items.</p>
+      <p><code>Python</code> <code>Flask</code> <code>SQLite</code></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://sujeethmuru.github.io/SujeethPortfolioWebsite/">Portfolio Website</a></h3>
-      <p>A responsive personal site that brings my background, technical work, and contact information into one place.</p>
+      <p>A responsive personal website that presents my projects, experience, technical background, and contact information.</p>
       <p><code>HTML</code> <code>CSS</code> <code>GitHub Pages</code></p>
     </td>
   </tr>
 </table>
 
+### Experience and involvement
+
+- Support university computers, classroom technology, software installations, printing, networking, and technical incidents as an OIT Student Assistant.
+- Have supported more than 200 students while working with device imaging, networking, and audiovisual equipment as part of the university IT team.
+- Serve as Deputy President I of the UHCL Computer Science Club; co-founded and formerly served as Vice President of the Association of South Asian Computing and Informatics.
+
 ### Toolkit
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,flask,html,css,sqlite,git,github,vscode&perline=8" alt="Python, Flask, HTML, CSS, SQLite, Git, GitHub, and VS Code" />
+  <img src="https://skillicons.dev/icons?i=python,flask,html,css,sqlite,linux,git,github,vscode&perline=9" alt="Python, Flask, HTML, CSS, SQLite, Linux, Git, GitHub, and VS Code" />
 </p>
 
-**Currently exploring:** FastAPI, Docker, deployment workflows, GitHub Actions, and database design.
+Additional experience: cybersecurity fundamentals, networking, technical support, system deployment, SQL, Java, and VHDL.
+
+### Currently building
+
+- An AI-powered network intrusion detection dashboard.
+- Hands-on cybersecurity portfolio projects.
+- Continued learning in deployment, Docker, GitHub Actions, and backend system design.
 
 ### GitHub activity
 
@@ -59,5 +72,5 @@ I build practical software that turns repetitive work and messy information into
 </p>
 
 <p align="center">
-  <sub>Open to software engineering internships, project collaborations, and conversations about building useful products.</sub>
+  <sub>Seeking cybersecurity, cloud, software engineering, and IT internship opportunities.</sub>
 </p>
