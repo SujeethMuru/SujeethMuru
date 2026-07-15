@@ -48,7 +48,7 @@ I am a senior Computer Science student at the University of Houston&ndash;Clear 
 
 - Support university computers, classroom technology, software installations, printing, networking, and technical incidents as an OIT Student Assistant.
 - Have supported more than 200 students while working with device imaging, networking, and audiovisual equipment as part of the university IT team.
-- Serve as Deputy President I of the UHCL Computer Science Club; co-founded and formerly served as Vice President of the Association of South Asian Computing and Informatics.
+- Co-founded and serving as Vice President of Association of Software and Computing Integration.
 
 ### Toolkit
 
